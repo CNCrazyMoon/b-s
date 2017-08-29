@@ -1,7 +1,8 @@
 ---
 title: Virsual Studio Code 配置文件
 date: 2017-08-28 17:19:27
-tags: vscode
+tags: [vscode, 效率]
+categories: 工具
 ---
 这里记录一下我使用`VSCode`的配置文件，方便查阅(不定时更新)。
 

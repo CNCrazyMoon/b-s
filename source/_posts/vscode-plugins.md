@@ -1,7 +1,8 @@
 ---
 title: Virsual Studio Code 常用插件
 date: 2017-08-28 16:45:28
-tags: vscode
+tags: [vscode, 效率]
+categories: 工具
 ---
 现在 `VSCode` 已经发展地很成熟了，基本已迁移到 `VSCode`。
 
